@@ -1,4 +1,1 @@
-# Python - Technical Analysis for Algorithmic Trading
-
-Programming Language:
-  - Python
+<h1 align="center">Technical Analysis with Python for Algorithmic Trading Course</h1>
